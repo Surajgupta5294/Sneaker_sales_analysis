@@ -1,6 +1,5 @@
 # -Sneaker_sales_analysis
-![Alt text](https://files.oaiusercontent.com/file-UwyZM7WGXK3pYdzQSZ7hyf?se=2025-02-25T07%3A01%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc14d568b-0038-41ae-b0c3-48226ef7cf78&sig=8p4GG4jvk3G4%2B1s/S7%2BXmeSZDKG31Mpdxa4a4j7mD2E%3D)
-
+![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
 
 📌 Project Overview
 
