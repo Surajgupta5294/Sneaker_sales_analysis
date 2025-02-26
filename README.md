@@ -1,11 +1,15 @@
 # -Sneaker_sales_analysis
 
+![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
 
-📌 Project Overview
+![Alt text]![image](https://github.com/user-attachments/assets/3177f9a3-adcf-4c12-828a-22b960c37d7f)
+
+
+📌 Project Overview :
 
 This project analyzes sneaker sales data using SQL. It provides insights into customer behavior, product performance, sales representatives, and supplier efficiency. The dataset includes customers, products, sales transactions, sales representatives, and suppliers.
 
-📂 Dataset
+📂 Dataset :
 
 . 01_customers.csv - Customer details
 
@@ -23,7 +27,7 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 
 . 08_(Asgmt03)Supplier_and_Product_Performance.sql - SQL queries for supplier performance
 
-📊 Analysis & Insights
+📊 Analysis & Insights :
 
 . Sales Trends: Identify peak sales periods
 
@@ -33,7 +37,7 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 
 . Supplier Performance: Efficiency of different suppliers
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 1. SQL
 
@@ -42,7 +46,7 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 3. Excel/CSV
 
 
-🚀 How to Use
+🚀 How to Use :
 
 1. Clone the repository:
 
@@ -54,14 +58,15 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 
 4.Analyze and visualize results.
 
-📜 License
+📜 License :
 
   This project is open-source under the MIT License.
 
-👤 Author
+👤 Author :
 "Suraj Gupta"
 
 GitHub: https://github.com/Surajgupta5294
-![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
 
-![Alt text]![image](https://github.com/user-attachments/assets/3177f9a3-adcf-4c12-828a-22b960c37d7f)
+
+
+
