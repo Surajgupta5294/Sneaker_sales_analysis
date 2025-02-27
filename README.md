@@ -50,7 +50,7 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 
 1. Clone the repository:
 
-" git clone https://github.com/your-username/sneaker-sales-analysis.git"
+" git clone https://github.com/Surajgupta5294/sneaker-sales-analysis.git"
 
 2. Load the .csv files into a database.
 
