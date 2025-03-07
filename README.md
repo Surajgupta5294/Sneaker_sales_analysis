@@ -1,8 +1,5 @@
 # -Sneaker_sales_analysis
 
-![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
-
-![Alt text]![image](https://github.com/user-attachments/assets/3177f9a3-adcf-4c12-828a-22b960c37d7f)
 
 
 📌 Project Overview :
@@ -64,6 +61,12 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 
 👤 Author :
 "Suraj Gupta"
+
+
+![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
+
+![Alt text]![image](https://github.com/user-attachments/assets/3177f9a3-adcf-4c12-828a-22b960c37d7f)
+
 
 GitHub: https://github.com/Surajgupta5294
 
