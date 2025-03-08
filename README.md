@@ -66,6 +66,8 @@ This project analyzes sneaker sales data using SQL. It provides insights into cu
 ![Alt text](![image](https://github.com/user-attachments/assets/344593f0-90a3-48f0-8004-03ee73c419d6)
 
 ![Alt text]![image](https://github.com/user-attachments/assets/3177f9a3-adcf-4c12-828a-22b960c37d7f)
+![Alt text]![image]![image](https://github.com/user-attachments/assets/a1101b99-a3c1-4e0f-bf19-fb0e46a4ffd6)
+
 
 
 GitHub: https://github.com/Surajgupta5294
